@@ -7,7 +7,7 @@ toolchain go1.22.5
 require (
 	github.com/BurntSushi/toml v1.4.0
 	github.com/Khan/genqlient v0.7.0
-	github.com/ethereum/go-ethereum v1.14.12
+	github.com/ethereum/go-ethereum v1.14.13
 	github.com/google/wire v0.6.0
 	github.com/lmittmann/tint v1.0.5
 	github.com/spf13/cobra v1.8.0
