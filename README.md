@@ -11,6 +11,7 @@
 </div>
 <br>
 <p align="center">
+<a href="https://github.com/Mugen-Builders/cartesi-coprocessor-nonodox/blob/main/LICENSE">	
 	<img src="https://img.shields.io/github/license/Mugen-Builders/cartesi-coprocessor-nonodox?style=default&logo=opensourceinitiative&logoColor=white&color=00ADD8" alt="license">
 	<img src="https://img.shields.io/github/last-commit/Mugen-Builders/cartesi-coprocessor-nonodox?style=default&logo=git&logoColor=white&color=000000" alt="last-commit">
 </p>
